@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.cabecalho {
+    max-width: 1024;
+    width: 100%;
+    background-color: rgb(78, 33, 33);
+    color: rgb(233, 200, 200);
+    font-size: 2em;
+    padding: 0.5em 0;
+    text-align: center;
+}
